@@ -1,0 +1,11 @@
+List of tests:
+Given longMsg - general test
+
+"The quick brown fox jumped over the lazy dog." 
+This is to check that every character works.
+
+"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+This is to check when the checkSum is a large value, to make sure that works correctly. 
+
+"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+This is to check when the checkSum is a small value, to make sure this works correctly. 
